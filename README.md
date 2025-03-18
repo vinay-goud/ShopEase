@@ -52,8 +52,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Visit the live application at: [ShopEase Demo]
-(https://shop--ease.vercel.app/)
+Visit the live application at: [ShopEase Demo](https://shop--ease.vercel.app/)
 
 ## 🔧 Development
 
