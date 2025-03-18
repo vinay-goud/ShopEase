@@ -1,0 +1,25 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle with Gradient -->
+  <circle cx="50" cy="50" r="50" fill="url(#gradient)"/>
+  
+  <!-- Modern Shopping Bag Design -->
+  <path d="M30 40H70C72 40 74 42 74 44L70 70C70 72 68 74 66 74H34C32 74 30 72 30 70L26 44C26 42 28 40 30 40Z" 
+        fill="white" fill-opacity="0.9"/>
+  
+  <!-- Bag Handles -->
+  <path d="M40 40C40 32 44 26 50 26C56 26 60 32 60 40" 
+        stroke="white" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Decorative Lines -->
+  <path d="M35 50H65" stroke="url(#gradient)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M37 58H63" stroke="url(#gradient)" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="50%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg>
